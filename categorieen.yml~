@@ -1,0 +1,13 @@
+categorieLijst: [{"type":"nietHerhalendeCategorie","naam":"vermissing","straal":"100","timeToLive":"84000"},
+{"type":"nietHerhalendeCategorie","naam":"vandalisme","straal":"1000","timeToLive":"3600"},
+{"type":"nietHerhalendeCategorie","naam":"test","straal":"1","timeToLive":"3600"}]
+databaseAdapter: "nl.ica.breas.burgernet.backend.persistence.MongoDB"
+fotoController: "nl.ica.breas.burgernet.backend.controller.FotoController"
+haalMeldingOpController: "nl.ica.breas.burgernet.backend.controller.HaalMeldingOpController"
+meldingController: "nl.ica.breas.burgernet.backend.controller.MeldingController"
+burgerController: "nl.ica.breas.burgernet.backend.controller.BurgerController"
+pushServer: "nl.ica.breas.burgernet.backend.push.PushServerVoorbeeld"
+databaseIpAdres: "149.5.47.170"
+databasePoort: 27017
+databaseInlogNaam: "burgernet"
+databaseInlogWachtwoord: "breas2012"
